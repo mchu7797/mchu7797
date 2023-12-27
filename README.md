@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm **full stack developer** still learning **computer science** from university.  
-I maintain Oxygen project for serving rhythm game internet ranking. 
+I maintain [Oxygen project](https://dmjam.net) for serving rhythm game internet ranking. 
   
 I like any rhythm games!  
 Being idiot is my best hobby. lol
