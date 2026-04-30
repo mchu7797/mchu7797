@@ -26,7 +26,7 @@ Being idiot is my best hobby. lol
 
 ### Certificates
 [![CCNA](https://img.shields.io/badge/Cisco-CCNA-049fd9?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/77c14537-6dd6-460e-80d0-883d135b064e/public_url)
-[![정보처리기사](https://img.shields.io/badge/Certification-정보처리기사-1D76DB?style=for-the-badge)]
+![정보처리기사](https://img.shields.io/badge/Certification-정보처리기사-1D76DB?style=for-the-badge)
 
 <!--
 **mchu7797/mchu7797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
