@@ -1,6 +1,5 @@
 ### Hi there 👋
-I'm **full stack developer** still learning **computer science** from university.  
-I maintain [Oxygen project](https://dmjam.net) for serving rhythm game internet ranking. 
+A Computer Science graduate and former Full-stack Developer, now specialized in Infrastructure Engineering. I am also the creator and maintainer of Oxygen project, where I handle the backend and infrastructure for rhythm game internet rankings.
   
 I like any rhythm games!  
 Being idiot is my best hobby. lol
@@ -25,9 +24,9 @@ Being idiot is my best hobby. lol
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![RaspberryPi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-### Another Badges
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mchu7797)](https://solved.ac/mchu7797/)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mchu7797&count_private=true&theme=cobalt)
+### Certificates
+[![CCNA](https://img.shields.io/badge/Cisco-CCNA-049fd9?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/77c14537-6dd6-460e-80d0-883d135b064e/public_url)
+[![정보처리기사](https://img.shields.io/badge/Certification-정보처리기사-1D76DB?style=for-the-badge)]
 
 <!--
 **mchu7797/mchu7797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
