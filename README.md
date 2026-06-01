@@ -26,7 +26,7 @@ Being idiot is my best hobby. lol
 
 ### Certificates
 [![CCNA](https://img.shields.io/badge/Cisco-CCNA-049fd9?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/be026763-eb98-47e5-bfe3-49a92d889900/public_url)
-[![VCP-VVF Admin 9.0](https://img.shields.io/badge/VMware-VCP--VVF%20Admin%209.0-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.credly.com/badges/be026763-eb98-47e5-bfe3-49a92d889900/public_url)
+[![VCP-VVF Admin 9.0](https://img.shields.io/badge/VMware-VCP--VVF%20Admin%209.0-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.credly.com/badges/96eda842-cbd7-4997-9d3a-1b3297810f8e)
 ![정보처리기사](https://img.shields.io/badge/Certification-정보처리기사-1D76DB?style=for-the-badge)
 
 <!--
