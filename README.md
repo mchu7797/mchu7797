@@ -1,6 +1,5 @@
 ### Hi there 👋
-A Computer Science graduate and former Full-stack Developer, now specialized in Infrastructure Engineering. I am also the creator and maintainer of [O
-xygen project](https://dmjam.net), where I handle the backend and infrastructure for rhythm game internet rankings.
+A Computer Science graduate and former Full-stack Developer, now specialized in Infrastructure Engineering. I am also the creator and maintainer of [Oxygen project](https://dmjam.net), where I handle the backend and infrastructure for rhythm game internet rankings.
   
 I like any rhythm games!  
 Being steddy is my best hobby. lol
